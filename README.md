@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Surya743
 - 👀 I’m interested in Web Development, Web Scraping , Go
-- 🌱 I’m currently learning Next.js 13, SQL
+- 🌱 I’m currently learning Next.js 13, SQL , C++ , Go
 - 📫 How to reach me : Mail me at gsuryashashank@gmail.com
 
 <!---
